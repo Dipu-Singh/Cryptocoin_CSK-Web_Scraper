@@ -3,8 +3,8 @@
   coinswitch kuber[CSK] - cryptocoin - notifier 
 -------------------------------------------------
 
-Web Scraping – Crypto Coin Provider Company (Coin Switch Kuber [CSK])
-With the help the script written in python you can do scraping of almost all website (but one should have prior (Basic) knowledge of web-development and python)
+Web Scraping(web data extraction) – One can choose any website to do scraping like me. I had chosen Crypto Coin Provider Company (Coin Switch Kuber [CSK]) and used python and its library to do data harvesting.
+
 Why have I made this?
 
 As like many other crypto coin provider players in market CSK application not providing me any feature of alert when price goes down or up which lead me to make this 😊 To Save $Money$.
