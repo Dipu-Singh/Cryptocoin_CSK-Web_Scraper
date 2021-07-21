@@ -7,7 +7,7 @@ Web Scraping(web data extraction) – One can choose any website to do scraping 
 
 Why have I made this?
 
-As like many other crypto coin provider players in market CSK application not providing me any feature of alert when price goes down or up which lead me to make this 😊 To Save $Money$.
+As like many other crypto coin provider players in the market CSK application does not providing any feature of alert to let us determine when the price goes down or up which leads me to make this 😊 To Save $Money$.
 
 **Objective:**
 
