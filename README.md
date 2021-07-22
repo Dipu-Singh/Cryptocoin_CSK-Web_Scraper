@@ -13,15 +13,15 @@ As like many other crypto coin provider players in the market CSK application do
 
   •	To Send alert @every 15 sec by means of sound (if any speaker is attached to on running script device for me, initially it was my laptop and finally get it incorporate with raspberry pi_4(SBC) with speaker which work as my DIY Server + Smart Speaker for different- different application) and email.
 
-  •	It offers you a .csv where u can name coin fallowed by price (at which u want alert to get trigger).
+  •	It offers you a .csv where you can name coin fallowed by price (at which you want alert to get invoke).
 
 **Setting:**
 1)	For sale keep it like as:  
 ![image](https://user-images.githubusercontent.com/65926581/126496465-36fd2761-8aa2-4ad9-8fce-3bd7b4cd4587.png)
 3)	For buy chenge the operator to > (Less than)
-    o	Note:- Please make change in price a/c to case u want to opt for (Inside .csv).
+    o	Note:- Please make change in price according to case you want to opt for (Inside .csv).
     
-3)	Email: - Make it sure that you had enable the 2-step verification for email which you going to use for sending mails (when test case meets your fixed threshold).
+3)	Email: - Make it sure that you have enable the 2-step verification for email which you are going to use for sending mails (when test case meets your fixed threshold).
   For App password creation fallow these steps:
 
       a.	Go to your Google Account.
@@ -36,9 +36,9 @@ As like many other crypto coin provider players in the market CSK application do
 
       f.	Your account is through work, school, or other organization.
 
-      g.	You turned on Advanced Protection.
+      g.	You have turned on Advanced Protection.
 
-      h.	At the bottom, choose Select app and choose the app you are using (i.e. Other) Select device and choose the device (Window/Linux) you are using Generate.
+      h.	At the bottom, choose Select app and choose the app you are using (i.e. Other) Select device and choose the device (Window/Linux) you are using to Generate.
 
       i.	Follow the instructions to enter the App Password. The App Password is the 16-character code like (fig2 line no 91) in the yellow bar on your device.
       
